@@ -61,8 +61,8 @@ The network processes $28 \times 28$ grayscale MNIST digit images through the fo
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone <your-repo-url>
-   cd <your-repo-folder>
+   git clone https://github.com/TavishMassy/CODEC_HandwrittenDigitRecognizer
+   cd CODEC_HandwrittenDigitRecognizer
    ```
 2. Install dependencies:
    ```bash
